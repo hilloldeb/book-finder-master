@@ -25,11 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;![](Preview.gif)
 
-<p align="center">
-  <a href="https://react-book-finder.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
-  </a>
-</p>
+
 
 <h2 id="techonologies" name="technologies">
   :rocket: Used Technologies
@@ -52,7 +48,7 @@ The aim of this project was practicing React, a great tech that I've started lea
   :clipboard: Final Result
 </h2>
 
-### [You can check the final result clicking here](https://react-book-finder.netlify.app/)
+
 
 <h2 id="how-to-use" name="how-to-use">
   :information_source: How to Run
@@ -61,8 +57,6 @@ The aim of this project was practicing React, a great tech that I've started lea
 Follow the steps below to run the project in your machine, before it all, you need to have the Git, Node.js and Yarn installed on your computer, then follow the steps below:
 
 ```bash
-# Clone the repo
-$ git clone https://github.com/TiagoDiass/book-finder.git
 
 # Enter in the directory
 $ cd book-finder
@@ -80,9 +74,8 @@ and open `localhost:3000`. To stop the app just go back to the terminal and pres
 ---
 
 Hope you enjoyed this project :smiley:<br>
-:wave: [Get in touch!](https://www.linkedin.com/in/tiagodiass)
 
-### Author: Tiago Dias
+### Author: Hillol Deb
 
 
 
